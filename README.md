@@ -16,4 +16,4 @@ SatelliteView 프로젝트의 설계 및 개발 문서를 관리하는 저장소
 
 ## 관련 저장소
 
-- SatelliteView (Backend)
+- satelliteview-backend
